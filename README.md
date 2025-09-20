@@ -294,8 +294,8 @@
     <div class="flower-background" id="flower-bg"></div>
 
     <div class="container">
-        <h1>¡Jazmín, Mi Universo Entero! <span class="heart">💖</span></h1>
-        <h2>Tu existencia es la melodía que embellece mi vida, sin importar la distancia.</h2>
+        <h1>¡Jazmín, Mi niña chiquita <span class="heart">💖</span></h1>
+        <h2>Tu risa y tus gracias me hacen sentir bien cada dia, sin importar la distancia.</h2>
 
         <p>Mi amor, hoy no solo celebramos el inmenso cariño que nos une, sino la magia de una conexión que trasciende kilómetros y fronteras. Cada día contigo, incluso a la distancia, es un capítulo precioso en nuestra historia, lleno de risas, de apoyo incondicional y de la certeza de que estamos hechos el uno para el otro.</p>
         <p>Aunque un océano o un continente nos separe físicamente, nuestros corazones bailan al mismo compás. Tu voz es el abrazo que necesito, tu sonrisa mi refugio, y la espera de cada reencuentro es el motor de mis días. Eres mi inspiración, mi calma y la aventura más hermosa que he emprendido.</p>
@@ -332,7 +332,7 @@
                 <p>¡75% rendido a tu encanto! 💘</p>
             </div>
             <div class="love-milestone" id="milestone5">
-                <p>¡100% de mi corazón es y siempre será tuyo! <span class="heart">❤️</span> ¡Y sigue creciendo!</p>
+                <p> Llego a 100% verdad, ahi te das cuenta de lo seguro que me siento contigo,  <span class="heart">💖</span> Te amo linda</p>
             </div>
         </div>
 
@@ -380,7 +380,7 @@
     </div>
 
     <footer>
-        Con todo el amor de mi universo, para mi Jazmín. <span class="heart">❤️</span>
+        Con todo el amor de mi universo, para mi niña. <span class="heart">💖</span>
     </footer>
 
     <script>
