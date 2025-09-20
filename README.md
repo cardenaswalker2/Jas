@@ -299,7 +299,7 @@
 
         <p>Mi amor, hoy no solo celebramos el inmenso cariño que nos une, sino la magia de una conexión que trasciende kilómetros y fronteras. Cada día contigo, incluso a la distancia, es un capítulo precioso en nuestra historia, lleno de risas, de apoyo incondicional y de la certeza de que estamos hechos el uno para el otro.</p>
         <p>Aunque un océano o un continente nos separe físicamente, nuestros corazones bailan al mismo compás. Tu voz es el abrazo que necesito, tu sonrisa mi refugio, y la espera de cada reencuentro es el motor de mis días. Eres mi inspiración, mi calma y la aventura más hermosa que he emprendido.</p>
-        <p>Gracias por ser mi Jazmín, la flor más brillante de mi jardín. Por tu inteligencia que me desafía, por tu empatía que me conmueve, y por tu amor que me hace sentir completo. ¡Eres simplemente extraordinaria!</p>
+        <p>Gracias por ser mi Palida, la flor más brillante de mi jardín. Por tu inteligencia que me desafía, por tu empatía que me conmueve, y por tu amor que me hace sentir completo. ¡Eres simplemente extraordinaria!</p>
 
         <div class="cta-button-container">
             <button class="cta-button" data-target="loveProgressSection">Descubre la Intensidad de Mi Amor</button>
@@ -341,15 +341,14 @@
             <h3 class="section-title">Algunas de las Miles de Razones por las que te Amo</h3>
             <p>No podría enumerarlas todas, pero aquí te dejo unas cuantas que me vienen a la mente ahora mismo:</p>
             <ul class="reason-list">
-                <li>Amo la forma en que tus ojos brillan cuando te emocionas.</li>
-                <li>Amo cómo me haces reír hasta que me duele el estómago.</li>
-                <li>Amo tu inteligencia y la forma en que ves el mundo.</li>
+                <li>Amo la forma en que tus ojos brillan</li>
+                <li>Amo como tus ojitos cambian depende a tu animo</li>
                 <li>Amo tu fuerza y tu resiliencia ante cualquier desafío.</li>
                 <li>Amo la calma que me transmites con solo escucharte.</li>
                 <li>Amo tus planes locos y nuestras aventuras futuras.</li>
-                <li>Amo tu voz, es mi canción favorita.</li>
+                <li>Amo tu voz, aunque digas que parece de niña</li>
                 <li>Amo tu pasión por la vida y todo lo que haces.</li>
-                <li>Amo el simple hecho de que eres tú, mi Jazmín.</li>
+                <li>Amo el simple hecho de que eres tú, mi Palida.</li>
                 <li>Amo cómo la distancia nos ha hecho aún más fuertes.</li>
             </ul>
         </div>
@@ -359,7 +358,7 @@
             <h3 class="section-title">Un Futuro Juntos: Nuestro Mapa de Sueños <span class="heart">🗺️</span></h3>
             <p>Aunque estemos lejos, ya estoy dibujando en mi mente todos los lugares, momentos y sueños que construiremos juntos. Esto es solo una pincelada de lo que nos espera:</p>
             <div class="dream-map">
-                <p>✨ **Viajes Inolvidables**: Explorar juntos ese país que tanto queremos, o simplemente pasear de la mano por calles desconocidas, creando nuevos recuerdos.</p>
+                <p>✨ **Viajes Inolvidables**: Explorar juntos ese país que tanto has querido, ya tu hermana lo hizo, ahora faltas tu</p>
                 <p>🏡 **Nuestros Momentos Tranquilos**: Ver películas abrazados en el sofá, cocinar nuestras comidas favoritas, o simplemente disfrutar del silencio de la compañía mutua.</p>
                 <p>🚀 **Grandes Aventuras**: Emprender ese proyecto soñado, apoyarnos mutuamente en nuestras metas más ambiciosas y celebrar cada éxito, grande o pequeño.</p>
                 <p>🌱 **Un Jardín de Amor**: Ver crecer juntos nuestro amor, con la paciencia y el cuidado de quien cultiva las flores más hermosas.</p>
@@ -369,11 +368,12 @@
 
         <!-- SECCIÓN 4: MENSAJE ESPECIAL -->
         <div class="section" id="messageSection">
-            <h3 class="section-title">Jazmín, Solo Para Tus Ojos y Tu Corazón...</h3>
+            <h3 class="section-title">Jazmincita, mis ojos lindos</h3>
             <div class="quote-box">
                 <p>Mi amor, en este Día del Amor y la Amistad, quiero que sepas que eres mi persona favorita en todo el universo. No hay distancia que pueda disminuir lo que siento por ti, al contrario, cada kilómetro es un recordatorio de lo valioso que es nuestro vínculo.</p>
                 <p>Eres mi confidente, mi inspiración, mi mejor amiga y el amor de mi vida. Gracias por existir, por tu esencia, por tu risa contagiosa y por cada pedacito de ti que me has regalado. Prometo seguir luchando por nuestro futuro, por cada sonrisa y por cada abrazo que nos espera.</p>
-                <p>Te amo con la fuerza de mil soles y la calma de un millón de lunas. ¡Feliz día, mi hermosa Jazmín!</p>
+                <p>Aunque hayan nuestras diferencias yose que todo se arregla, si pasamos peleando y todo, pero en el fondo siempre estoy pensando en ti</p>
+                <p>Te amo con la fuerza de mil soles y la calma de un millón de lunas. ¡Feliz día, mi negra hermosa, tamooooooo palidaaa</p>
             </div>
         </div>
 
